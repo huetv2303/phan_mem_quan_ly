@@ -12,3 +12,8 @@ C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_
 C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.fAccount.resources
 C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.fDepartment.resources
 C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.fDivision.resources
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.csproj.CopyComplete
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\bin\Debug\Dapper.dll
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\bin\Debug\Dapper.xml

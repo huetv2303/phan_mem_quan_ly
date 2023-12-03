@@ -39,8 +39,13 @@ namespace phan_quan_ly_nhan_su
             string password = txtMat_khau.Text;
 
             UserModel userModel = new UserModel();
-            dynamic user = userModel.getLogin(username,password);
-            Console.WriteLine(user);
+            Dictionary<string, string> data = new Dictionary<string, string>
+            {
+                {"username", username },
+                {"password", password },
+            };
+
+            userModel.getLogin(username, password);
 
         }
 
@@ -78,9 +83,22 @@ namespace phan_quan_ly_nhan_su
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            this.Hide();
+            string username = txtTai_khoan.Text;
+            string password = txtMat_khau.Text;
+
+            UserModel userModel = new UserModel();
+            Dictionary<string, string> data = new Dictionary<string, string>
+            {
+                {"username", username },
+                {"password", password },
+            };
+
+            userModel.getLogin(username, password);
+
+            /**this.Hide();
             fmain main = new fmain();
             main.Show();
+            */
         }
     }
 }
