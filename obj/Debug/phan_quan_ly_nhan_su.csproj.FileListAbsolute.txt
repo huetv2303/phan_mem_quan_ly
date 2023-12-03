@@ -1,0 +1,14 @@
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\bin\Debug\phan_quan_ly_nhan_su.exe.config
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\bin\Debug\phan_quan_ly_nhan_su.exe
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\bin\Debug\phan_quan_ly_nhan_su.pdb
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.csproj.AssemblyReference.cache
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.flogin.resources
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.Properties.Resources.resources
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.csproj.GenerateResource.cache
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.csproj.CoreCompileInputs.cache
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.exe
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.pdb
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.fmain.resources
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.fAccount.resources
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.fDepartment.resources
+C:\Users\Tuong Hue\OneDrive\Desktop\phan_quan_ly_nhan_su\obj\Debug\phan_quan_ly_nhan_su.fDivision.resources

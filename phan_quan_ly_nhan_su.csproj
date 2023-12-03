@@ -46,14 +46,55 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="common\ConnectSql.cs" />
+    <Compile Include="fAccount.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="fAccount.Designer.cs">
+      <DependentUpon>fAccount.cs</DependentUpon>
     </Compile>
+    <Compile Include="fDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDepartment.Designer.cs">
+      <DependentUpon>fDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDivision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDivision.Designer.cs">
+      <DependentUpon>fDivision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="flogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="flogin.Designer.cs">
+      <DependentUpon>flogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmain.Designer.cs">
+      <DependentUpon>fmain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\UserModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fAccount.resx">
+      <DependentUpon>fAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDepartment.resx">
+      <DependentUpon>fDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDivision.resx">
+      <DependentUpon>fDivision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="flogin.resx">
+      <DependentUpon>flogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmain.resx">
+      <DependentUpon>fmain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

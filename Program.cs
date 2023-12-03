@@ -16,7 +16,7 @@ namespace phan_quan_ly_nhan_su
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new flogin());
         }
     }
 }
